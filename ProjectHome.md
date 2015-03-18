@@ -1,0 +1,1 @@
+An Eclipse plug-in providing a custom server definition for the Liferay portlet container
